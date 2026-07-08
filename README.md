@@ -40,4 +40,4 @@ The underlying facts are public records of the Government of India. This compila
 
 ## Contact
 
-Fertility Decoded: [fertilitydecoded.org](https://fertilitydecoded.org) · 
+Fertility Decoded: [fertilitydecoded.org](https://fertilitydecoded.org) · info@fertilitydecoded.org
